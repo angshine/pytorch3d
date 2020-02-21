@@ -725,9 +725,15 @@
    "provenance": []
   },
   "kernelspec": {
-   "display_name": "Python 3",
+<<<<<<< HEAD
+   "display_name": "pytorch-latest",
    "language": "python",
-   "name": "bento_kernel_default"
+   "name": "pytorch-latest"
+=======
+   "display_name": "pytorch3d (local)",
+   "language": "python",
+   "name": "pytorch3d_local"
+>>>>>>> origin/master
   },
   "language_info": {
    "codemirror_mode": {
